@@ -1,0 +1,2 @@
+# biexiangzou-h
+Danmaku (Japanese: 弾幕だんまく; Chinese: 弹幕dàn mù), literally translated as “bullet curtain" or "curtain fire”, is a Japanese term for the subtitle system used by online video platforms, that allows user to post moving comments onto a video as it is playing. These comments are synchronized to the video timeline, and are typically presented as “shooting” across the screen, resembling a barrage.
